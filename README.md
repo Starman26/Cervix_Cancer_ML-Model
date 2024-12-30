@@ -27,3 +27,5 @@ Cervical cancer remains one of the leading causes of mortality among women world
   - `DataLoader` and `TensorDataset` for handling data in neural networks.
 - **Hyperparameter Optimization**:
   - `Optuna` for advanced hyperparameter tuning.
+ 
+To replicate this project is easy as downloading the Dataset, i used a Kaggle Dataset, i show the process to clean the data but if you just want to do the Machine Learning part, just download the clean dataset i did.
